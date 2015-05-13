@@ -1,4 +1,3 @@
-e
 # BU workshop on Git3
 
 #computational-project-cookie-cutter
