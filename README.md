@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-# change on github
-# there's a new change
-# BU workshop on Git
-=======
-# updated?
->>>>>>> 9998672eb764ac1181a5fff7af4f2d5baa136b93
+e
+# BU workshop on Git3
 
 #computational-project-cookie-cutter
 A cookie cutter (aka project template) to set up a folder structure for a computational project.
